@@ -1,0 +1,522 @@
+{
+  "folder": "jUKXxHBxIBpK3i9w",
+  "name": "Base HQ Improvements",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Evidence Wall",
+      "type": "text",
+      "_id": "PlNKaeRP93fnw6FU",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>With access to an Evidence Wall, Lawmen and Medias gain a +2 bonus to Composition, Criminology, Cryptography, Deduction, Education, Forgery, Library Search, andP hotograph/Film Checks as they apply to ongoing investigations.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>When the Evidence Wall is upgraded, the bonus increases to +3 for Lawmen. The bonus for Medias remains at +2 but their Credibility Rank temporarily increases by 1 for the purposes of Believability when they publish a story they’ve worked on with the help of the Evidence Wall.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036332037,
+        "modifiedTime": 1725036583846,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      }
+    },
+    {
+      "sort": 200000,
+      "name": "Garage",
+      "type": "text",
+      "_id": "gnimzNwn82Q2HhcA",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4><strong>Improvement Cost: 40 HQ IP</strong></h4><p></p><p>A Garage comes with a Compact Groundcar that is owned by the crew. The car can be improved by purchasing and installing Vehicle Upgrades, but it cannot be sold. It cannot benefit from a Nomad’s Moto Role Ability.</p><p></p><p>If the car is Destroyed Beyond Repair, this Improvement (and the Upgrade, if also purchased) is lost. Any HQ IP spent on it is not refunded, and the Improvement must be purchased again to obtain a new vehicle.</p><p></p><h4><strong>Upgrade Cost: 40 HQ IP</strong></h4><p></p><p>When the Garage is upgraded, Nomads gain an additional benefit. Assuming all of a Nomad’s vehicles are at full HP and in working condition, they can spend one week of downtime to re-spec the choices they made with their Moto Role Ability to date, swapping out Vehicle Upgrades or even entire Vehicles as desired.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036415966,
+        "modifiedTime": 1772916885528,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      }
+    },
+    {
+      "sort": 0,
+      "name": "Template",
+      "type": "text",
+      "_id": "HDoeHc69N9NdFl3x",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1725036862785,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      }
+    },
+    {
+      "sort": 300000,
+      "name": "Lockup",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>A Lockup is a soundproof place where a crew can drag off a single character and keep them prisoner. When imprisoned in a Lockup, the character cannot escape unless they have BODY 13 or higher to break through the barriers holding them.</p><p>However, others can certainly come looking for them, so be warned.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>When Lockup is upgraded, up to three characters can be kept in separate cells. In addition, Lawmen gain a +2 bonus to Interrogation Checks when questioning a prisoner who has spent at least one day in the Lockup.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1725036703072,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "coanL02laKfPNr7j"
+    },
+    {
+      "sort": 300000,
+      "name": "Lounge",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>During in-person meetings held in a Lounge, Fixers in the crew gain a +2 bonus to Bribery, Bureaucracy, Business, Conversation, Human Perception, Persuasion, and Trading Checks.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>When a Lounge is upgraded, Fixers and Medias gain a +2 to all Checks made to set-up an in-person meeting with anyone the GM determines falls under their Contacts and Clients (Fixers) or Access/Sources (Medias).</p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1781387656335,
+        "lastModifiedBy": "2WEpLnnP6UhNdl2n",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "1zedsikdOe6PgZyq"
+    },
+    {
+      "sort": 400000,
+      "name": "Medbay",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>With access to a Medbay, members of the crew naturally heal as if their BODY was 2 points higher. Medtech crew members using a Medbay gain a +2 bonus to First Aid, Paramedic, and Surgery Skills Checks.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>When a Medbay is upgraded, a Medtech crew member can use Science (Chemistry) to Upgrade, Fabricate, and Invent Street Drugs as if they were a Tech using the Maker Role Ability (see CP:R page 148).</p><p></p><p>Consider the Medtech’s Upgrade, Fabrication, or Invention Expertise to be equal to their Medical Tech Skill Level for this purpose.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.YtHMR08IO46NOheA.JournalEntryPage.HDoeHc69N9NdFl3x"
+        }
+      },
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1725036855767,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "Y5EjZycCfCNTnhrI"
+    },
+    {
+      "sort": 500000,
+      "name": "Morale Boost",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>A Morale Boost is any improvement that improves the wellbeing of the crew and makes it more comfortable or improves its amenities. This represents your crew personalizing their space for fun rather than for reasons of utility.</p><p></p><p>This improvement is broad enough to cover most recreational and decorative upgrades, including arcade games, liquor cabinets, ping-pong tables, pool tables, saunas, home theaters, murals, basketball courts, clawfoot bathtubs, and antique fishnet leg lamps.</p><p>This Improvement reduces stress and, as a result, lowers the monthly Lifestyle Cost for all members of the crew by 50eb.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>Morale Boost can be upgraded up to 10 times, each time providing a new benefit. See the Morale Boost Upgrade table for more information.</p><p></p><h4>Morale Boost Upgrade Table</h4><p></p><table><tbody><tr><td data-colwidth=\"109\"><p style=\"text-align:center\">Morale Boost Upgrade Level</p></td><td><p style=\"text-align:center\">Benefit</p></td></tr><tr><td data-colwidth=\"109\"><p>1</p></td><td><p>At the beginning of every month, each crew member can restore 1d3 Humanity, up to their Maximum Humanity as determined by their installed Cyberware.</p></td></tr><tr><td data-colwidth=\"109\"><p>2</p></td><td><p>Members of the crew naturally heal as if their BODY was 1 point higher. This stacks with the bonus provided by the Medbay Improvement.</p></td></tr><tr><td data-colwidth=\"109\"><p>3</p></td><td><p>The crew (including Exec Improved Team Members) increases their LUCK by 1. This is one of the only ways for an NPC to be given a Luck pool.</p></td></tr><tr><td data-colwidth=\"109\"><p>4</p></td><td><p>At the beginning of every month, each crew member can restore 1d6 Humanity, up to their Maximum Humanity, as determined by their installed cyberware. This replaces the benefit gained at the first Morale Boost Upgrade.</p></td></tr><tr><td data-colwidth=\"109\"><p>5</p></td><td><p>Fixer crew members gain a +2 to Trading Checks when negotiating to increase the pay per person for a job. Non-Fixer members of the crew can now haggle to increase pay per person per job by 20% as if they were a Fixer with Operator Rank 5, though they do not gain any bonus to their Trading Check.</p></td></tr><tr><td data-colwidth=\"109\"><p>6</p></td><td><p>While Hustling (see CP:R page 381), members of the crew can roll twice on the appropriate Hustle table and take whichever outcome they prefer.</p></td></tr><tr><td data-colwidth=\"109\"><p>7</p></td><td><p>The crew (including Exec Improved Team Members) increases their LUCK by an additional 1.</p></td></tr><tr><td data-colwidth=\"109\"><p>8</p></td><td><p>When Hustling (see CP:R page 381), members of the crew can roll twice on the appropriate Hustle table and gain the income from both rolls. This replaces the benefit gained at the sixth Morale Boost Upgrade.</p></td></tr><tr><td data-colwidth=\"109\"><p>9</p></td><td><p>At the beginning of every month, each crew member can roll 1d6 twice and take the highest result. They then add this number to their Humanity, raising it (up to their Maximum Humanity, as determined by their installed cyberware). This replaces the benefit gained at the fourth Morale Boost Upgrade.</p></td></tr><tr><td data-colwidth=\"109\"><p>10</p></td><td><p>Choose Your Own: Work with the GM to create a unique Morale Boost Benefit designed around the specific circumstances of your crew.</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.YtHMR08IO46NOheA.JournalEntryPage.HDoeHc69N9NdFl3x"
+        }
+      },
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1781387962408,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "JocBM3fWRQwM0wly"
+    },
+    {
+      "sort": 600000,
+      "name": "Rent Reduction",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>The Rent Reduction Improvement gives edgerunners who live in their HQ a break on the rent. Treat the cost of the rent as if it were one category lower on the Real Estate table (see CP:R page 378), skipping any row listed as “Given to you by a Corp.” The cost of rent for a Cube Hotel room drops to 100eb per month Rent Reduction cannot be applied to a HQ with no monthly rent cost.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>Each time the Rent Reduction Improvement is upgraded, add another bed (and possibly another room with the GM’s permission) to the HQ. This adds space for additional tenants without increasing the housing cost. Rent Reduction can be Upgraded multiple times but not past the point where the original number of beds is doubled.</p><p>For example, a Cargo Container cannot have more than two beds (one Upgrade), while a Two-Bedroom Apartment can have up to four beds (two Upgrades).</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.YtHMR08IO46NOheA.JournalEntryPage.HDoeHc69N9NdFl3x"
+        }
+      },
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1725037266486,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "aWCEHOL7z4feK1hx"
+    },
+    {
+      "sort": 700000,
+      "name": "Server Room",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>The Headquarters now has a NET Architecture. Using Home Security 2045 (see CP:R page 217) and 20,000eb, create the perfect home defense for your crew. The only stipulation is that you won’t be able to resell or remove anything bought with this eb later and that you can’t keep any unspent funds.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>When a Server Room is upgraded, a Netrunner crew member can use Electronics/Security Tech to Upgrade, Fabricate, and Invent Cyberdecks, Cyberdeck Hardware, and Cyberdeck Programs as if they were a Tech using the Maker Role Ability (see CP:R page 148). Consider the Netrunner’s Upgrade, Fabrication, or Invention Expertise to be equal to their Interface Rank for this purpose.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.YtHMR08IO46NOheA.JournalEntryPage.HDoeHc69N9NdFl3x"
+        }
+      },
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1725037340519,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "bpTbZCoZmkFTA1SQ"
+    },
+    {
+      "sort": 800000,
+      "name": "Studio",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>While inside the Studio, a Rockerboy crew member gains a +2 bonus to their Acting, Composition, Play Instrument, Paint/Draw/Sculpt, and Photograph/Film Checks.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>When the Studio is upgraded, Rockerboy crew members can spend can one week of downtime to refine a particular artistic project and gain a +2 on the Acting, Composition, Play Instrument, Paint/Draw/Sculpt, and/or Photograph/Film Checks needed to create it. If they fail the Check, they can try again later, spending another week with an additional +2 stacked atop the already existing bonus. The Rockerboy can continue this pattern and stack bonuses until their project is completed, they abandon the project, or they roll a 1 (Fumble Recovery does not help if they also happen to be a Solo) on one of the Checks needed, in which case the bonuses from this refinement process vanish in a poof of frustration.</p><p></p><p>Ever wonder how Silverhand wrote Chippin’ In, or Eurodyne completed Second Conflict? Hard work and long swaths of studio time. Art has the potential to change the world, often in unexpected ways. Legendary (DV29) art always does. You won’t know how until it happens.</p><p>GMs are encouraged to consider the existence of such an art project for both narrative and mechanical purposes during play.</p><p></p><h4>Example</h4><p><em>Forty wants to lay down a killer track for her next album – her magnum opus. The GM rules she will need to succeed at three different DV29 Checks (Composition, Play Instrument (Guitar), and Play Instrument (Singing). She spends a week in the studio, gaining a +2 bonus on those Skills. She fails all three Checks (with a 15, 18, and 21 respectively). She puts the work on hold to do a gig with her crew, then returns for another week of recording. Since this is the second week, the bonus increases to a +4! Still, she fails all three Checks again (a 16, 22, and 28, respectively). She’s so close, she can taste it!</em></p><p><em>Forty dives right into another week of recording, with a +6 bonus this time. Only she rolls a 1 on her Play Instrument (Singing) Check. Forty groans in frustration as her muse dies a bloody, bullet-riddled death. Her bonuses are lost as the work turns to garbage. She’ll have to start over from scratch if she wants to continue.</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.YtHMR08IO46NOheA.JournalEntryPage.HDoeHc69N9NdFl3x"
+        }
+      },
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1725037449907,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "wlsHXxRKrp3doNpt"
+    },
+    {
+      "sort": 900000,
+      "name": "Training Area",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>With access to a Training Area, a crew member can use one week of downtime to Practice one of the following Skills: Athletics, Archery, Autofire, Brawling, Evasion, Handgun, Heavy Weapons, Martial Arts, Melee Weapon, or Shoulder Arms.</p><p>When a Skill is Practiced, the crew member gains a +1 bonus on all Checks made using it until the next time the crew receives IP from the Group column after a mission is completed or until they Practice again.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>When a Training Area is upgraded, Solos using the area gain an additional benefit. They can select two different Skills from the above list. Both Skills are considered to be Practiced.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.YtHMR08IO46NOheA.JournalEntryPage.HDoeHc69N9NdFl3x"
+        }
+      },
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1725037791626,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "xX50WzGQ5KFlSTzJ"
+    },
+    {
+      "sort": 1000000,
+      "name": "Workshop",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>Whenever a Tech crew member spends their time using Upgrade Expertise, Fabrication Expertise, or Invention Expertise Maker Specialties while in a Workshop, they may assign an equal amount of time to a second project without actually spending additional time on it.</p><p></p><p><strong>Example:</strong> <em>Torch spends one week using Upgrade Expertise to equip a Flamethrower with an Attachment Slot. Since he is in his HQ’s Workshop, he can also bank one week of time towards finishing the Compact Ground Car (a Super Luxury item) he is Fabricating.</em></p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>When a Workshop is upgraded, a Tech crew member can further assign an equal amount of time to a third project when they use the Workshop.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.YtHMR08IO46NOheA.JournalEntryPage.HDoeHc69N9NdFl3x"
+        }
+      },
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1725037896932,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "atZZ2tkTYKTvhxhr"
+    },
+    {
+      "sort": 1100000,
+      "name": "Workstation",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4>Improvement Cost: 40 HQ IP</h4><p></p><p>A Workstation improves the efficiency and abilities of one of the Team Members of an Exec crew member (chosen when the Improvement is purchased). An Improved Team Member is considered a full member of the crew, gains IP whenever their Exec gains IP and should receive an equal share of the pay for any gigs they participate in. IP and cash are spent as the GM decides.</p><p>An Improved Team Member is loyal to their immediate boss, not the Corporation they work for, and follows the Exec to a new company if the crew member makes a switch. If access to the Workstation is lost, the Team Member can no longer gain IP or payment from jobs but does keep benefits gained due to past spending.</p><p></p><h4>Upgrade Cost: 40 HQ IP</h4><p></p><p>When a Workstation is improved, Improved Team Members no longer use the Loyalty System (see CP:R page 154) to determine if they stay loyal. Instead, the Improved Team Member remains loyal no matter what and will only leave if their Exec actively betrays them.</p><p>If an Upgraded Workstation is destroyed, removed, or otherwise lost, the crew must restore it before spending HQ IP on any other Improvements or Upgrades. If the crew fails to do so, the Improved Team Member feels betrayed and leaves posthaste.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "YRKE50G7fAcM08t5": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.YtHMR08IO46NOheA.JournalEntryPage.HDoeHc69N9NdFl3x"
+        }
+      },
+      "_stats": {
+        "systemId": "cyberpunk-red-core",
+        "systemVersion": "v0.88.2",
+        "coreVersion": "12.343",
+        "createdTime": 1725036593339,
+        "modifiedTime": 1725038000637,
+        "lastModifiedBy": "YRKE50G7fAcM08t5",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "ZHRyeenPcgUlbZ9x"
+    }
+  ],
+  "flags": {
+    "exportSource": {
+      "world": "red-nights",
+      "system": "cyberpunk-red-core",
+      "coreVersion": "12.343",
+      "systemVersion": "v0.92.4"
+    }
+  },
+  "_stats": {
+    "systemId": "cyberpunk-red-core",
+    "systemVersion": "v0.88.2",
+    "coreVersion": "12.343",
+    "createdTime": 1725036318927,
+    "modifiedTime": 1745687956585,
+    "lastModifiedBy": "YRKE50G7fAcM08t5"
+  }
+}
